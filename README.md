@@ -1,1 +1,1 @@
-# Statistics-and-Probability-Case-Study
+# Aerofit-Statistics-and-Probability-Case-Study
